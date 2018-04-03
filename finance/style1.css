@@ -1,0 +1,65 @@
+.users td, .users th{
+border: 1px solid #ddd;
+padding: 5px;
+min-width: 110px;
+}
+
+.users tr {
+background-color:orange;
+}
+
+.users th {
+padding-top: 11px;
+padding-bottom: 12px;
+text-align: left;
+background-color: rgb(65, 47, 182);
+color: white;
+}
+
+table.users {
+
+position:relative;
+bottom:190px;
+left:500px;
+}
+
+.welcome {
+  position:relative;
+  bottom: 300px;
+}
+.border{
+  border-style:groove;
+  border-width: 10px;
+  border-top: -40px;
+  height:100%;
+}
+
+h2 {
+position:relative;
+left:670px;
+top:100px;
+}
+
+#h2 {
+position:relative;
+top:130px;
+}
+#logout a {
+text-decoration: none;
+}
+
+#logout {
+position:relative;
+left:1450px;
+top:32px;
+}
+
+h1 {
+position: relative;
+left:500px;
+bottom:200px;
+}
+.error {
+  position:relative;
+  left:300px;
+}
